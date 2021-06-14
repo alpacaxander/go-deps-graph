@@ -1,6 +1,8 @@
 a -> b
+
 b -> c
+b -> l
+
 c -> d
 c -> f
 c -> g
-b -> l
